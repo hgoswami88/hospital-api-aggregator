@@ -1,0 +1,25 @@
+#Eclipse dirs/files ignore
+.classpath
+.project
+.settings/
+.factorypath
+
+
+#Intellij dirs/files ignore
+.idea/
+*.iml
+**/*.iml
+*.iws
+**/*.iws
+
+
+#MAC dirs/files ignore
+.DS_Store
+
+
+#Maven dirs/files ignore
+
+log/
+target/
+/bin/
+
